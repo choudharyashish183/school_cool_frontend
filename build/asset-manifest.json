@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0d429f3.css",
+    "main.js": "/static/js/main.67a4a51f.js",
+    "static/media/img3.png": "/static/media/img3.9bc8e2eb0cfdc05817b9.png",
+    "static/media/classroom.jpg": "/static/media/classroom.876258eed657000c9f38.jpg",
+    "static/media/subjects.svg": "/static/media/subjects.ef81f0bbea2b9a3231edcf49d00d7ad5.svg",
+    "static/media/assignment.svg": "/static/media/assignment.4def021ac61723cb0479c69bf8efa1ab.svg",
+    "static/media/time.svg": "/static/media/time.0e9d36f6356c032a523d5cc2fb081da2.svg",
+    "static/media/img4.png": "/static/media/img4.00189832c895efe006af.png",
+    "static/media/school.jpg": "/static/media/school.87dd82378d5576d56b28.jpg",
+    "static/media/designlogin.jpg": "/static/media/designlogin.cbc146551f2cb6122012.jpg",
+    "static/media/img1.png": "/static/media/img1.066eaaffa2323032d92a.png",
+    "static/media/img2.png": "/static/media/img2.fc61a764a47344bb49f0.png",
+    "index.html": "/index.html",
+    "main.c0d429f3.css.map": "/static/css/main.c0d429f3.css.map",
+    "main.67a4a51f.js.map": "/static/js/main.67a4a51f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d429f3.css",
+    "static/js/main.67a4a51f.js"
+  ]
+}
